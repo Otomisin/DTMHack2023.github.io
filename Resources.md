@@ -54,7 +54,7 @@ If you prefer using Integrated Development Environments (IDEs) like Visual Studi
 
 # Data for hackathon?
 
-Participants will have access to Displacement Tracking Matrix (DTM) datasets related to the East and Horn of Africa region. These datasets will include information on displacement, climate-related factors, population movements, and more. Here is a list of the datasets you’ll have access to, all georeferenced to Admin 1 for the region of interest.
+Participants will have access to Displacement Tracking Matrix (DTM) dataset related to the East and Horn of Africa region. These datasets will include information on displacement, climate-related factors, population movements, and more. Here is a list of the datasets you’ll have access to, all georeferenced to Admin 1 for the region of interest. The temporal dimension under consideration for the external data is 2000-2020. 
 
 
 ### Table of Data Sources
