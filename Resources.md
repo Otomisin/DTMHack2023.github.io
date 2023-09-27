@@ -45,7 +45,7 @@ If you prefer using Integrated Development Environments (IDEs) like Visual Studi
    - [Using R in Google Colab](https://www.youtube.com/watch?v=39F0M8MAL4E&t=3s)
 
 2. Data Preparation and Visualization Resources:
-   - Data Cleaning with Pandas (Python): [Link 1](https://realpython.com/python-data-cleaning-numpy-pandas/) [Link 2](https://www.youtube.com/watch?v=bDhvCp3_lYw)
+   - Data Cleaning with Pandas (Python): [Link 1](https://realpython.com/python-data-cleaning-numpy-pandas/), [Link 2](https://www.youtube.com/watch?v=bDhvCp3_lYw)
    - Data Visualization with Python: [Link](https://d.docs.live.net/b884e7613e5498d8/02_JOBS/IOM/4_OTHERS/Hackthon_v2/7 Python Data Visualization Libraries in 15 minutes)
    - Data Visualization with ggplot2 (R): [Link](https://www.youtube.com/watch?v=HPJn1CMvtmI)
    - How to Visualize data in maps Using Geopandas [Links](https://www.analyticsvidhya.com/blog/2021/09/how-to-visualise-data-in-maps-using-geopandas/)
