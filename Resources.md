@@ -13,11 +13,11 @@ output:
 
 # Technical Requirements and Resources
 
-This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. The goal is to ensure you haev the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
+This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. The goal is to ensure you have the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
 
 This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. The goal is to ensure you with the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
 
-From hardware recommendations to software options and a detailed breakdown of available datasets, this guide is designed to assist both novice and experienced participants in navigating the technical landscape of our hackathon. Whether you're a coding enthusiast, a GIS specialist, or a data visualization wizard, you'll find valuable insights here to help you excel in your research endeavors.
+From hardware recommendations to software options and a detailed breakdown of available datasets, this guide is designed to assist both novice and experienced participants in navigating the technical landscape of our hackathon. Whether you're a coding enthusiast, a GIS specialist, or a data visualization wizard, we're hopeful you'll find valuable insights here to help you excel in this Hackathon.
 
 ## Hardware requirements
 
