@@ -1,7 +1,11 @@
 ---
-title: "Home"
-output:
-  html_document:
-    encoding: UTF-8
-      theme: flatly
+output: 
+  html_document :
+    # toc: yes
+    theme: flatly
 ---
+# 2023 IOM - UCL Hackathon: Resources for Participants
+This hackathon will bring together undergraduate and postgraduate students from different U.K. institutions to address research questions examining the relationship between climate change and human mobility in the East and Horn of Africa region.
+
+<hr>
+![](images/flyer.png){ width=500% height=100% }

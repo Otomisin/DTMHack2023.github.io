@@ -1,11 +1,9 @@
 name: "DTM-UCL Hack 2023"
 navbar:
-  title: "Resoures"
+  title: "DTM-UCL Hack 2023"
   left:
     - text: "Home"
       href: index.html
     - text: "Resources"
       href: Resources.html
-    - text: "About"
-      href: about.html
 output_dir: "docs"

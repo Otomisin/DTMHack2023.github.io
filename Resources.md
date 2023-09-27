@@ -14,15 +14,15 @@ output:
 
 First, congratulations for being selected for this edition of IOM-UCL "Bridging Climate Change and Human Mobility" hackathon event, where innovation meets data-driven solutions. To ensure that participants are well-prepared for this exciting journey, we've outlined the technical requirements and provided a comprehensive list of resources to support your data analysis endeavors.
 
-This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. Our aim is to empower you with the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
+This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. The goal is to ensure you with the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
 
 From hardware recommendations to software options and a detailed breakdown of available datasets, this guide is designed to assist both novice and experienced participants in navigating the technical landscape of our hackathon. Whether you're a coding enthusiast, a GIS specialist, or a data visualization wizard, you'll find valuable insights here to help you excel in your research endeavors.
 
-## Are there any hardware requirements for participants?
+## Hardware requirements for participants?
 
 Participants are encouraged to bring their own laptops or devices for data analysis. It's recommended to have a device capable of running the chosen data analysis software.
 
-## What software tools or programming languages are recommended for data analysis?
+## Recommended software and programming languages for data analysis?
 
 As part of your welcome pack, you will have access to Google Colab, a powerful cloud-based platform. Google Colab offers a range of advantages and resources that make it an excellent choice for data analysis:
 
@@ -50,7 +50,7 @@ If you prefer using Integrated Development Environments (IDEs) like Visual Studi
    - How to Visualize data in maps Using Geopandas [Links](Link)
    - Working with Geospatial Data in R: [Link](Link)
 
-## What kind of data will be provided to participants for their research during the hackathon?
+## Data provision for research during the hackathon?
 
 Participants will have access to Displacement Tracking Matrix (DTM) datasets related to the East and Horn of Africa region. These datasets will include information on displacement, climate-related factors, population movements, and more. Here is a list of the datasets you’ll have access to, all georeferenced to Admin 1 for the region of interest.
 
@@ -94,11 +94,11 @@ Participants will have access to Displacement Tracking Matrix (DTM) datasets rel
 | Displacement     | Mobility Tracking Data: Mobility tracking aims to quantify the presence of population categories of interest, reasons for displacement, length of displacement, and needs within defined geographical areas and locations, with a frequency that captures mobility dynamics | [Source](https://dtm.iom.int/datasets) |
 | Conflicts        | Armed Conflict Location & Event Data Project (ACLED): The Armed Conflict Location & Event Data Project (ACLED) collects real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events around the world | [Source](https://acleddata.com/) |
 
-# Can participants bring their own datasets or use external data sources?
+# The use of own datasets or external data sources?
 
 While the primary focus will be on DTM datasets, participants are encouraged to supplement their research with other publicly available data sources if relevant to their research questions.
 
-# Is there a specific data format that participants should expect the DTM datasets to be in?
+# Data format to expect?
 
 The DTM datasets will be provided in standard data formats such as CSV and Excel each with its respective admin1 codes or names for easy mapping to shapefiles for geographic data. More information will be provided to participants on the event day.
 
@@ -133,44 +133,43 @@ Will there be any data privacy or ethical considerations when working with sensi
 
 # References and Publications
 
-| SN  | References                                                                                              | Abstract Summary                                                                                                                                     |
-|-----|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Wood, T. (2022). The role of free movement agreements in addressing climate mobility. Forced Migration Review, (69). | Free movement agreements present opportunities for those who move in the context of disasters and climate change. |
-| 2   | Castillejo, C. (2019). The influence of EU migration policy on regional free movement in the IGAD and ECOWAS regions (No. 11/2019). Discussion paper. | This paper explores the impact of the EU's migration policies in Africa on the continent's aspirations for free movement. While African regional economic communities aim for free movement to enhance integration and development, the EU's focus on curbing irregular migration to Europe seems at odds with these goals. The paper examines this tension at both continental and regional levels, highlighting how the EU's prioritization of other migration issues sidelines free movement. It finds that the EU's engagement in the Horn of Africa is somewhat supportive of free movement but not prioritized, while its approach in West Africa undermines existing free movement arrangements. The paper offers recommendations for the EU to better support free movement in Africa. |
-| 3   | Maru, M. T. (2021). Migration policy-making in Africa: determinants and implications for cooperation with Europe. Robert Schuman Centre for Advanced Studies Research Paper, (2021/54). | The power asymmetry between Europe and Africa has distorted the priorities of Africa and created pressure to implement policies that give precedence to Europe's interests over those of African countries and migrants. |
-| 4   | Black, R. (2004). Migration and pro-poor policy in Africa. | Historically, the migration of millions of rural households in eastern and southern Africa has provided investment capital for rural commodity production, stimulated the flow of new ideas and social practices into rural areas, and enhanced rural livelihoods (Francis 2002). |
-| 5   | Afifi, T., Govil, R., Sakdapolrak, P., & Warner, K. (2012). Climate change, vulnerability and human mobility: Perspectives of refugees from the East and Horn of Africa. Bonn: United Nations University, Institute for Environment and Human Security (UNU-EHS). | Climate change can make people more vulnerable and can also play a part in driving them into areas of conflict and ultimately across borders and into exile. |
-| 6   | Hoffmann, R. (2022). Contextualizing climate change impacts on human mobility in African drylands. | Climate mobility in this region is the outcome of complex interactions between individual and contextual factors shaping people's needs and incentives to move as well as their constraints. |
-| 7   | Zickgraf, C. (2019). Climate change and migration crisis in Africa. The Oxford handbook of migration crises, 347. | The relationship between climate change and migration is not so simple. |
-| 8   | Thalheimer, L., Williams, D. S., Van der Geest, K., & Otto, F. E. (2021). Advancing the evidence base of future warming impacts on human mobility in African drylands. Earth's Future, 9(10), e2020EF001958. | A systems approach is needed to address the interconnectedness of climate impacts and the cascading risks of adverse consequences for human mobility. |
-| 9   | Morrissey, J. (2013). Environmental change and human migration in Sub-Saharan Africa. In People on the move in a changing climate: the regional impact of environmental change on migration (pp. 81-109). Dordrecht: Springer Netherlands. | Mobility forms an important response to environmental change and stress in sub-Saharan Africa. |
-| 10  | Warner, K., & Afifi, T. (2014). Enhancing adaptation options and managing human mobility: the United Nations framework convention on climate change. Social research, 81(2), 299-326. | Migration as a risk management strategy when faced with climatic stressors like changes in rainfall is important. |
-| 11  | Hastrup K, & Fog Olwig K. (2012). Climate Change and Human Mobility. | The risks of engineering mobility to reduce vulnerability to climate change are insights from a small island state. |
-| 12  | Mueller, V., Sheriff, G., Dou, X., & Gray, C. (2020). Temporary migration and climate variation in eastern Africa. | A standard deviation temperature increase, and rainfall decrease lead to respective 10 and 12 percent declines in out-migration relative to mean values in four East African countries. |
-| 13  | Li, Q., & Samimi, C. (2023). Assessing Human Mobility and Its Climatic and Socioeconomic Factors for Sustainable Development in Sub-Saharan Africa. Sustainability, 15(15), 11661. | The young population counteracted temporary moves. |
-| 14  | Martin, S. F., Bergmann, J., Rigaud, K. K., & Yameogo, N. D. (2020). Climate change, human mobility, and development. | The Sustainable Development Goals encourage states to facilitate orderly, safe, regular and responsible migration and mobility of people. |
-| 15  | Ferris, E. (2020). Research on climate change and migration where are we and where are we going? | The academic community writ large is presently unable to provide consistent comprehensive evidence or guidance on these issues. |
-| 16  | Afifi, T., Milan, A., Etzold, B., Schraven, B., Rademacher-Schulz, C., Sakdapolrak, P., ... & Warner, K. (2016). Human mobility in response to rainfall variability: opportunities for migration as a successful adaptation strategy in eight case studies. Migration and Development, 5(2), 254-274. | Migration can be a successful adaptation strategy for some households. |
-| 17  | Kniveton, D. R., Smith, C. D., & Black, R. (2012). Emerging migration flows in a changing climate in dryland Africa. | The extent of climate-change-related migration is likely to be highly nonlinear. |
-| 18  | Warner, K. (2010). Global environmental change and migration: Governance challenges. | Current governance frameworks for human mobility are partially equipped to manage new forms of human mobility. |
-| 19  | Barnett, J., & McMichael, C. (2018). The effects of climate change on the geography and timing of human mobility. | The proposed open labor markets as a means to promote climate change adaptation are changing mobility in the present. |
-| 20  | Tyson, P. D., Lee-Thorp, J., Holmgren, K., & Thackeray, J. F. (2002). Climatic Change, 52(01-Feb), 129-135. | Changes in rainfall in the two regions on multi-decadal to centennial scales have influenced both settlement patterns and livelihoods of Iron Age agriculturalists. |
-| 21  | Marchiori, L., Maystadt, J. F., & Schumacher, I |
-| 22  | Meze-Hausken, E. (2000). Mitigation and Adaptation Strategies for Global Change, 5(4), 379-406. | Climate change is a likely trigger for migration of people, especially in dryland areas of less developed countries. |
-| 23  | Warner, K., Hamza, M., Oliver-Smith, A., Renaud, F., & Julca, A. (2010). Climate change, environmental degradation and migration. Natural Hazards, 55, 689-715. | Climate change will have a progressively increasing impact on environmental degradation and environmentally dependent socio-economic systems with potential to cause substantial population displacement. |
-| 24  | Nielsen, J. Ø., & Reenberg, A. (2010). Cultural barriers to climate change adaptation: A case study from Northern Burkina Faso. Global Environmental Change, 20(1), 142-152. | Culture acts as a major barrier to embracing four of the most successful livelihood strategies for Fulbe in the small village in Northern Burkina Faso studied. |
-| 25  | Scheffran, J., Marmer, E., & Sow, P. (2012). Migration as a contribution to resilience and innovation in climate adaptation: Social networks and co-development in Northwest Africa. Applied geography, 33, 119-127. | Migration can contribute to climate adaptation. |
-| 26  | Gunvor JÃ³nsson. (n.d.). The environmental factor in migration dynamics: A review of African case studies. | The use of static push-pull frameworks suggests that migrants are being 'pushed out' of marginal and degraded environments. |
-| 27  | Climate and Mobility in the West African Sahel: Conceptualising the Local Dimensions of the Environment and Migration Nexus | Multilevel, multi-method research seeks to separate the two research topics of migration and climate/environment. |
-| 28  | Magadza, CH. (2000). Environmental Monitoring and Assessment, 61(1), 193-205. | Increases in drought will enhance water supply related vulnerabilities in the semi-arid and arid zones. |
-| 29  | Twinomuhangi, R., Sseviiri, H., & Kato, AM. (2023). Contextualising environmental and climate change migration in Uganda. | The environment, climate change and migration nexus is not well understood and documented. |
-| 30  | Dom' inguez-Mujica, J. (2016). Global Change and Human Mobility. | The pull factors needed to make someone wonder around the world in search of a better life are outweighed by the advantages found in the host place/country. |
-| 31  | Mpandeli, S., Nhamo, L., Hlahla, S., Naidoo, D., Liphadzi, S., Modi, A. T., & Mabhaudhi, T. (2020). Migration under climate change in southern Africa: A nexus planning perspective. Sustainability, 12(11), 4722. | Population increase is exacerbating resource insecurities due to increased demand for already depleted resources. |
-| 32  | De Bruijn, M., & Van Dijk, H. (2003). Changing population mobility in West Africa: Fulbe pastoralists in central and south Mali. African affairs, 102(407), 285-307. | Mobility is the most important response by the inhabitants of the Sahel to climatic adversity. |
-| 33  | Gioli, G., Hugo, G., Costa Mia, Scheffran, J. (2015). Human mobility, climate adaptation, and development. | Human mobility, climate adaptation, and development in the eastern Horn of Africa. |
-| 34  | Mengiste, T. A. (2019). Precarious mobility: Infrastructures of Eritrean migration through the Sudan and the Sahara desert. African Human Mobility Review, 5(1). | The irregular transitions and stepwise mobility are facilitated by the interactions of actors. |
-| 35  | D. M. Bruijn, V. Dijk, D. Foeken. (n.d.). Mobile Africa: Changing patterns of movement in Africa and beyond. | Mobility is part of the livelihood system of African people. |
-| 36  | D. M. Bruijn, V. Dijk, D. Foeken. (n.d.). Mobile Africa: Changing patterns of movement in Africa and beyond. | Migration may decline in Ghana and in Nigeria. |
+1.	Wood, T. (2022). The role of free movement agreements in addressing climate mobility. Forced Migration Review, (69).
+2.	Castillejo, C. (2019). The influence of EU migration policy on regional free movement in the IGAD and ECOWAS regions (No. 11/2019). Discussion paper.
+3.	Maru, M. T. (2021). Migration policy-making in Africa: determinants and implications for cooperation with Europe. Robert Schuman Centre for Advanced Studies Research Paper, (2021/54).
+4.	Black, R. (2004). Migration and pro-poor policy in Africa.
+5.	Afifi, T., Govil, R., Sakdapolrak, P., & Warner, K. (2012). Climate change, vulnerability and human mobility: Perspectives of refugees from the East and Horn of Africa. Bonn: United Nations University, Institute for Environment and Human Security (UNU-EHS).
+6.	Hoffmann, R. (2022). Contextualizing climate change impacts on human mobility in African drylands.
+7.	Zickgraf, C. (2019). Climate change and migration crisis in Africa. The Oxford handbook of migration crises, 347.
+8.	Thalheimer, L., Williams, D. S., Van der Geest, K., & Otto, F. E. (2021). Advancing the evidence base of future warming impacts on human mobility in African drylands. Earth's Future, 9(10), e2020EF001958.
+9.	Morrissey, J. (2013). Environmental change and human migration in Sub-Saharan Africa. In People on the move in a changing climate: the regional impact of environmental change on migration (pp. 81-109). Dordrecht: Springer Netherlands.
+10.	Warner, K., & Afifi, T. (2014). Enhancing adaptation options and managing human mobility: the United Nations framework convention on climate change. Social research, 81(2), 299-326.
+11.	Hastrup K, & Fog Olwig K. (2012). Climate Change and Human Mobility.
+12.	Mueller, V., Sheriff, G., Dou, X., & Gray, C. (2020). Temporary migration and climate variation in eastern Africa.
+13.	Li, Q., & Samimi, C. (2023). Assessing Human Mobility and Its Climatic and Socioeconomic Factors for Sustainable Development in Sub-Saharan Africa. Sustainability, 15(15), 11661.
+14.	Martin, S. F., Bergmann, J., Rigaud, K. K., & Yameogo, N. D. (2020). Climate change, human mobility, and development.
+15.	Ferris, E. (2020). Research on climate change and migration where are we and where are we going?
+16.	Afifi, T., Milan, A., Etzold, B., Schraven, B., Rademacher-Schulz, C., Sakdapolrak, P., ... & Warner, K. (2016). Human mobility in response to rainfall variability: opportunities for migration as a successful adaptation strategy in eight case studies. Migration and Development, 5(2), 254-274.
+17.	Kniveton, D. R., Smith, C. D., & Black, R. (2012). Emerging migration flows in a changing climate in dryland Africa.
+18.	Warner, K. (2010). Global environmental change and migration: Governance challenges.
+19.	Barnett, J., & McMichael, C. (2018). The effects of climate change on the geography and timing of human mobility.
+20.	Tyson, P. D., Lee-Thorp, J., Holmgren, K., & Thackeray, J. F. (2002). Climatic Change, 52(01-Feb), 129-135.
+21.	Marchiori, L., Maystadt, J. F., & Schumacher, I. (2012). The impact of weather anomalies on migration in sub-Saharan Africa. Journal of Environmental Economics and Management, 63(3), 355-374.
+22.	Meze-Hausken, E. (2000). Mitigation and Adaptation Strategies for Global Change, 5(4), 379-406.
+23.	Warner, K., Hamza, M., Oliver-Smith, A., Renaud, F., & Julca, A. (2010). Climate change, environmental degradation and migration. Natural Hazards, 55, 689-715.
+24.	Nielsen, J. Ø., & Reenberg, A. (2010). Cultural barriers to climate change adaptation: A case study from Northern Burkina Faso. Global Environmental Change, 20(1), 142-152.
+25.	Scheffran, J., Marmer, E., & Sow, P. (2012). Migration as a contribution to resilience and innovation in climate adaptation: Social networks and co-development in Northwest Africa. Applied geography, 33, 119-127.
+26.	Gunvor Jónsson. (n.d.). The environmental factor in migration dynamics: A review of African case studies.
+27.	Climate and Mobility in the West African Sahel: Conceptualising the Local Dimensions of the Environment and Migration Nexus
+28.	Magadza, CH. (2000). Environmental Monitoring and Assessment, 61(1), 193-205.
+29.	Twinomuhangi, R., Sseviiri, H., & Kato, AM. (2023). Contextualising environmental and climate change migration in Uganda.
+30.	Dom'inguez-Mujica, J. (2016). Global Change and Human Mobility.
+31.	Mpandeli, S., Nhamo, L., Hlahla, S., Naidoo, D., Liphadzi, S., Modi, A. T., & Mabhaudhi, T. (2020). Migration under climate change in southern Africa: A nexus planning perspective. Sustainability, 12(11), 4722.
+32.	De Bruijn, M., & Van Dijk, H. (2003). Changing population mobility in West Africa: Fulbe pastoralists in central and south Mali. African affairs, 102(407), 285-307.
+33.	Gioli, G., Hugo, G., Costa Mia, Scheffran, J. (2015). Human mobility, climate adaptation, and development.
+34.	Mengiste, T. A. (2019). Precarious mobility: Infrastructures of Eritrean migration through the Sudan and the Sahara desert. African Human Mobility Review, 5(1).
+35.	D. M. Bruijn, V. Dijk, D. Foeken. (n.d.). Mobile Africa: Changing patterns of movement in Africa and beyond.
+36.	D. M. Bruijn, V. Dijk, D. Foeken. (n.d.). Mobile Africa: Changing patterns of movement in Africa and beyond.
+
 
 As we embark on this journey together, let's remember that innovation, collaboration, and the pursuit of knowledge are the driving forces behind transformative change. We look forward to witnessing the impactful solutions and insights that emerge from your dedicated efforts during this hackathon.
 
