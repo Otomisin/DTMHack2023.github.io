@@ -11,7 +11,7 @@ output:
 ![](images/header.png){ width=500% height=100% }
 
 
-# Technical Requirements and Resources for Participants
+# Technical Requirements and Resources
 
 This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. The goal is to ensure you haev the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
 
@@ -19,11 +19,11 @@ This section will guide you through the essential aspects of what you'll need in
 
 From hardware recommendations to software options and a detailed breakdown of available datasets, this guide is designed to assist both novice and experienced participants in navigating the technical landscape of our hackathon. Whether you're a coding enthusiast, a GIS specialist, or a data visualization wizard, you'll find valuable insights here to help you excel in your research endeavors.
 
-## Hardware requirements for participants?
+## Hardware requirements
 
 Participants are encouraged to bring their own laptops or devices for data analysis. It's recommended to have a device capable of running the chosen data analysis software.
 
-## Recommended software and programming languages for data analysis?
+## Recommended software
 
 As part of your welcome pack, you will have access to Google Colab, a powerful cloud-based platform. Google Colab offers a range of advantages and resources that make it an excellent choice for data analysis:
 
@@ -37,7 +37,7 @@ You have the freedom to choose software tools and programming languages that sui
 
 If you prefer using Integrated Development Environments (IDEs) like Visual Studio or PyCharm, you are welcome to do so. However, please note that while we support your choice, we may not be able to provide technical support on version compatibility for these IDEs.
 
-## Resources and Links
+# Resources and Links
 
 1. Tutorials and resources on Google Colab:
    - [Practical Introduction to Google Colab for Data Science](https://www.youtube.com/watch?v=oCngVVBSsmA&list=PLtqF5YXg7GLlAkFCnMedsu_RzW47kR0Nc)
@@ -50,17 +50,16 @@ If you prefer using Integrated Development Environments (IDEs) like Visual Studi
    - Data Visualization with ggplot2 (R): [Link](https://www.youtube.com/watch?v=HPJn1CMvtmI)
    - How to Visualize data in maps Using Geopandas [Links](https://www.analyticsvidhya.com/blog/2021/09/how-to-visualise-data-in-maps-using-geopandas/)
    - Working with Geospatial Data in R: [Link](https://jsta.github.io/glatos-spatial_workshop_materials/03-vector-csv-to-shapefile-in-r/index.html)
+   - Data Viz Gallery with scripts: [Link](https://dataviz.unhcr.org/chart_gallery/)
 
-## Data provision for research during the hackathon?
+# Data for hackathon?
 
 Participants will have access to Displacement Tracking Matrix (DTM) datasets related to the East and Horn of Africa region. These datasets will include information on displacement, climate-related factors, population movements, and more. Here is a list of the datasets you’ll have access to, all georeferenced to Admin 1 for the region of interest.
 
 
-## Data Sources
-
 ### Table of Data Sources
 
-| Variable         | Description                                                       | Source                                              |
+| Variable         | Description                                                       |Source                             |
 |------------------|-------------------------------------------------------------------|-----------------------------------------------------|
 | Socio-Economic   | Net migration (= total in-migration into area minus total out-migration from area) | [Source](https://zenodo.org/record/7997134)       |
 | Socio-Economic   | Population count                                                  | [Source](https://zenodo.org/record/7997135)       |
@@ -95,15 +94,16 @@ Participants will have access to Displacement Tracking Matrix (DTM) datasets rel
 | Displacement     | Mobility Tracking Data: Mobility tracking aims to quantify the presence of population categories of interest, reasons for displacement, length of displacement, and needs within defined geographical areas and locations, with a frequency that captures mobility dynamics | [Source](https://dtm.iom.int/datasets) |
 | Conflicts        | Armed Conflict Location & Event Data Project (ACLED): The Armed Conflict Location & Event Data Project (ACLED) collects real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events around the world | [Source](https://acleddata.com/) |
 
-# The use of own datasets or external data sources?
+
+### The use of own/external data?
 
 While the primary focus will be on DTM datasets, participants are encouraged to supplement their research with other publicly available data sources if relevant to their research questions.
 
-# Data format to expect?
+### Data format to expect?
 
 The DTM datasets will be provided in standard data formats such as CSV and Excel each with its respective admin1 codes or names for easy mapping to shapefiles for geographic data. More information will be provided to participants on the event day.
 
-# What is Admin Level?
+### What is Admin Level?
 
 - The concept of "admin_level" is used in geography and mapping to categorize and describe different levels of administrative divisions within a country or region. They mostly range from Admin 0 to Admin 10.
 
