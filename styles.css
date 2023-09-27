@@ -1,0 +1,10 @@
+/* Change background color to blue */
+body {
+  background-color: #f5f5f5 !important;
+}
+
+/* Change text (foreground) color to black */
+body {
+  color: black !important;
+}
+

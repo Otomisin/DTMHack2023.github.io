@@ -1,10 +1,11 @@
 ---
-output: 
-  html_document :
+output:
+  html_document:
     toc: yes
     theme: flatly
     toc_float: yes
     keep_md: yes
+    css: styles.css
 ---
 <hr>
 ![](images/header.png){ width=500% height=100% }
@@ -12,7 +13,7 @@ output:
 
 # Technical Requirements and Resources for Participants
 
-First, congratulations for being selected for this edition of IOM-UCL "Bridging Climate Change and Human Mobility" hackathon event, where innovation meets data-driven solutions. To ensure that participants are well-prepared for this exciting journey, we've outlined the technical requirements and provided a comprehensive list of resources to support your data analysis endeavors.
+This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. The goal is to ensure you haev the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
 
 This section will guide you through the essential aspects of what you'll need in terms of hardware, software, and data resources to make the most of this hackathon experience. The goal is to ensure you with the tools and knowledge required to delve into the complex world of climate change and human mobility in the East and Horn of Africa region.
 
@@ -26,11 +27,11 @@ Participants are encouraged to bring their own laptops or devices for data analy
 
 As part of your welcome pack, you will have access to Google Colab, a powerful cloud-based platform. Google Colab offers a range of advantages and resources that make it an excellent choice for data analysis:
 
-- Free Cloud-Based Platform: Eliminate the need for local software installation; access your analysis environment from anywhere.
-- Access to GPU Acceleration: Supercharge computationally intensive tasks with GPU support.
-- Collaborative Features: Real-time collaboration for seamless teamwork.
-- Preinstalled Libraries: Colab comes with a wealth of data science libraries for Python, including NumPy, Pandas, Matplotlib, and Scikit-Learn, making it effortless to start your data analysis journey.
-- Data Visualization: Create interactive data visualizations with libraries like Plotly and Seaborn.
+- **Free Cloud-Based Platform:** Eliminate the need for local software installation; access your analysis environment from anywhere.
+- **Access to GPU Acceleration:** Supercharge computationally intensive tasks with GPU support.
+- **Collaborative Features:** Real-time collaboration for seamless teamwork.
+- **Preinstalled Libraries:** Colab comes with a wealth of data science libraries for Python, including NumPy, Pandas, Matplotlib, and Scikit-Learn, making it effortless to start your data analysis journey.
+- **Data Visualization:** Create interactive data visualizations with libraries like Plotly and Seaborn.
 
 You have the freedom to choose software tools and programming languages that suit your expertise and research goals. Options include Python, R, or specialized GIS software like ArcGIS or QGIS. Your choice should align with the specific demands of your research project.
 
@@ -39,16 +40,16 @@ If you prefer using Integrated Development Environments (IDEs) like Visual Studi
 ## Resources and Links
 
 1. Tutorials and resources on Google Colab:
-   - [Practical Introduction to Google Colab for Data Science](Link)
-   - [How to use R and Python in the same notebook on Google Colab](Link)
-   - [Using R in Google Colab](Link)
+   - [Practical Introduction to Google Colab for Data Science](https://www.youtube.com/watch?v=oCngVVBSsmA&list=PLtqF5YXg7GLlAkFCnMedsu_RzW47kR0Nc)
+   - [How to use R and Python in the same notebook on Google Colab](https://www.youtube.com/watch?v=Ri1MfaSlSW0&t=195s)
+   - [Using R in Google Colab](https://www.youtube.com/watch?v=39F0M8MAL4E&t=3s)
 
 2. Data Preparation and Visualization Resources:
-   - Data Cleaning with Pandas (Python): [Link 1](Link) [Link 2](Link)
-   - Data Visualization with Python: [Link](Link)
-   - Data Visualization with ggplot2 (R): [Link](Link)
-   - How to Visualize data in maps Using Geopandas [Links](Link)
-   - Working with Geospatial Data in R: [Link](Link)
+   - Data Cleaning with Pandas (Python): [Link 1](https://realpython.com/python-data-cleaning-numpy-pandas/) [Link 2](https://www.youtube.com/watch?v=bDhvCp3_lYw)
+   - Data Visualization with Python: [Link](https://d.docs.live.net/b884e7613e5498d8/02_JOBS/IOM/4_OTHERS/Hackthon_v2/7 Python Data Visualization Libraries in 15 minutes)
+   - Data Visualization with ggplot2 (R): [Link](https://www.youtube.com/watch?v=HPJn1CMvtmI)
+   - How to Visualize data in maps Using Geopandas [Links](https://www.analyticsvidhya.com/blog/2021/09/how-to-visualise-data-in-maps-using-geopandas/)
+   - Working with Geospatial Data in R: [Link](https://jsta.github.io/glatos-spatial_workshop_materials/03-vector-csv-to-shapefile-in-r/index.html)
 
 ## Data provision for research during the hackathon?
 
