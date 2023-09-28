@@ -103,6 +103,9 @@ While the primary focus will be on DTM datasets, participants are encouraged to 
 
 The DTM datasets will be provided in standard data formats such as CSV and Excel each with its respective admin1 codes or names for easy mapping to shapefiles for geographic data. More information will be provided to participants on the event day.
 
+### Countries in Eastern Horn of Africa
+![](images/EHoa2.png){ width=500% height=100% }
+<hr>
 ### What is Admin Level?
 
 - The concept of "admin_level" is used in geography and mapping to categorize and describe different levels of administrative divisions within a country or region. They mostly range from Admin 0 to Admin 10.
