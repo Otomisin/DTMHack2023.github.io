@@ -111,9 +111,9 @@ The DTM datasets will be provided in standard data formats such as CSV and Excel
 - The concept of "admin_level" is used in geography and mapping to categorize and describe different levels of administrative divisions within a country or region. They mostly range from Admin 0 to Admin 10.
 
 - Here's a simple breakdown:
-  - Country Level (admin_level 1): At the top level, you have the entire country or region. For example, in the United States, this would be the entire country.
-  - State or Province Level (admin_level 2): Inside the country, you have states or provinces. Think of these as slightly smaller boxes within the big country box. For example, in the United States, you might have states like California or New York.
-  - County or District Level (admin_level 3): Within states or provinces, you have counties or districts. These are even smaller boxes, like subdivisions within the states. In California, you could have counties like Los Angeles or San Francisco.
+  - Country Level (admin_level 0): At the top level, you have the entire country or region. For example, in the United States, this would be the entire country.
+  - State or Province Level (admin_level 1): Inside the country, you have states or provinces. Think of these as slightly smaller boxes within big country box. For example, in the United States, you might have states like California or New York.
+  - County or District Level (admin_level 2): Within states or provinces, you have counties or districts. These are even smaller boxes, like subdivisions within the states. In California, you could have counties like Los Angeles or San Francisco.
 
 - More resources: [Admin Level on OpenStreetMap](https://wiki.openstreetmap.org/wiki/Key:admin_level)
 
